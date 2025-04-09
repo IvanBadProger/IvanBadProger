@@ -7,17 +7,16 @@
   <summary>🔧 <h2>Стек технологий:</h2></summary>
   
   - HTML, JSX
-  - CSS, Sass (SCSS), Tailwind
-  - JavaScript, TypeScript
+  - CSS, Sass (SCSS), Tailwindcss
+  - JavaScript, TypeScript, NodeJS
   - React
   - Redux (Redux Toolkit)
   - React Hook Form, React Router
   - Vite
   - REST API
-  - BEM, Feature-Sliced Design
+  - BEM, Feature-Sliced Design, A11Y
   - Git
   - Figma
   - PostgreSQL
-  - NodeJS, C#, Python
   - Telegraf.js
   </details>
