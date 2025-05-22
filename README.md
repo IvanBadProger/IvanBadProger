@@ -9,7 +9,7 @@
   - JavaScript, TypeScript, NodeJS
   - React, NextJS
   - Redux (Redux Toolkit)
-  - React Hook Form, React Router
+  - React Hook Form, React Router, Zod
   - Vite
   - REST API
   - BEM, Feature-Sliced Design, A11Y
