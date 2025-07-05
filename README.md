@@ -1,7 +1,7 @@
 # Привет! Меня зовут Иван - я Frontend разработчик.
 
 ### Мои проекты: 
- - [Ivver](https://ivver.ru/) (main frontend, designer) - Магазин автохимии
+ - [Ivver](https://ivver.ru/) (main frontend, designer) - Магазин автомобильной химии
 
  ## Образование
 * В направлении Frontend разработки полностью самоучка
@@ -9,11 +9,12 @@
 
 ### Стек технологий:
   - HTML, JSX, Pug
-  - CSS, Sass (SCSS), Tailwindcss, PostCSS
+  - CSS, Sass, Less, PostCSS
+  - TailwindCSS, Chakra-UI
   - JavaScript, TypeScript, NodeJS
   - React/Preact, NextJS, AstroJS
-  - Redux (Redux Toolkit), Zustand
-  - React Hook Form, React Router, Zod, React Query
+  - Redux (Redux Toolkit), Zustand, React Query
+  - React Hook Form, React Router, Zod
   - Vite
   - REST API, WebSocket
   - BEM, Feature-Sliced Design, A11Y
