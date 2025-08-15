@@ -2,6 +2,7 @@
 
 ### Мои проекты: 
  - [Ivver](https://ivver.ru/) (main frontend, designer) - Магазин автомобильной химии
+ - [NiHao Bot](https://t.me/chinese_gen_teacher_bot) - Бот для изучения китайского языка
 
  ## Образование
 * В направлении Frontend разработки полностью самоучка
@@ -12,12 +13,12 @@
   - CSS, Sass, Less, PostCSS
   - TailwindCSS, Chakra-UI
   - JavaScript, TypeScript, NodeJS
-  - React/Preact, NextJS, AstroJS
+  - React, NextJS, AstroJS
   - Redux (Redux Toolkit), Zustand, React Query
   - React Hook Form, React Router, Zod
   - Vite
   - REST API, WebSocket
   - BEM, Feature-Sliced Design, A11Y
   - Figma
-  - Telegraf.js
+  - Telegraf.js, Grammy.js
 
