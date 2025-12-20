@@ -3,15 +3,16 @@
 ### Мои проекты: 
  - [Ivver](https://ivver.ru/) (main frontend, designer) - Магазин автомобильной химии
  - [NiHao Bot](https://t.me/chinese_gen_teacher_bot) - Бот для изучения китайского языка
+ - [Challenge-hub](https://challenge-hub-chi.vercel.app) - Сервис для молодых IT специалистов
 
- ## Образование
-* В направлении Frontend разработки полностью самоучка
+## Образование
 * Обучался на направлении прикладная информатика (4 года) в Сибирском Университете Потребительской Кооперации
+* В направлении Frontend разработки полностью самоучка
 
 ### Стек технологий:
   - HTML, JSX, Pug
   - CSS, Sass, Less, PostCSS
-  - TailwindCSS, Chakra-UI
+  - TailwindCSS, Chakra-UI, Shadcn
   - JavaScript, TypeScript, NodeJS
   - React, NextJS, AstroJS
   - Redux (Redux Toolkit), Zustand, React Query
