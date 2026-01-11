@@ -17,7 +17,7 @@
   - React, NextJS, AstroJS
   - Redux (Redux Toolkit), Zustand, React Query
   - React Hook Form, React Router, Zod
-  - Vite
+  - Vite, Turbopack
   - REST API, WebSocket
   - BEM, Feature-Sliced Design, A11Y
   - Figma
