@@ -2,8 +2,9 @@
 
 ### Мои проекты: 
  - [Ivver](https://ivver.ru/) (main frontend, designer) - Магазин автомобильной химии
- - [NiHao Bot](https://t.me/chinese_gen_teacher_bot) - Бот для изучения китайского языка
- - [Challenge-hub](https://challenge-hub-chi.vercel.app) - Сервис для молодых IT специалистов
+ - [NiHao Bot](https://t.me/chinese_gen_teacher_bot) - Телеграм бот для изучения китайского языка
+ - [Challenge-hub](https://challenge-hub-chi.vercel.app) - Сервис пет проектами для молодых IT специалистов
+ - [Хранитель очага](https://ivanbadproger.github.io/keeper-of-the-hearth/) - Текстовый квест-бродилка
 
 ## Образование
 * Обучался на направлении прикладная информатика (4 года) в Сибирском Университете Потребительской Кооперации
